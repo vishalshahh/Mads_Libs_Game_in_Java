@@ -1,5 +1,4 @@
-<h1>Mad Libs Game README</h1>
-<body>
+
     <h1>Mad Libs Game</h1>
     <p>A simple <strong>Mad Libs</strong> game created in Java. This interactive project allows users to input words to generate a fun and quirky story!</p>
     <h2>Features</h2>
@@ -40,14 +39,14 @@
     </ol>
 
     <h2>Example Output</h2>
-    <pre>
 Enter a noun: cat
+<br>
 Enter an adjective: silly
+<br>
 Enter a verb: run
-
+<br>
 Story:
 Once upon a time, there was a silly cat that loved to run around the house!
-    </pre>
 
     <h2>Contributing</h2>
     <p>Contributions are welcome! Please follow these steps:</p>
@@ -69,6 +68,4 @@ Once upon a time, there was a silly cat that loved to run around the house!
     <p>This project is licensed under the <a href="https://opensource.org/licenses/MIT">MIT License</a>.</p>
 
     <h2>Contact</h2>
-    <p>Created by <a href="https://github.com/your-username">Your Name</a> - feel free to reach out!</p>
-</body>
-</html>
+    <p>Created by <a href="https://github.com/vishalshahh">Vishal Shah</a> - feel free to reach out!</p>
